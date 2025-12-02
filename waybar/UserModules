@@ -1,0 +1,32 @@
+//* ---- 💫 https://github.com/JaKooLit 💫 ---- *//
+/* Waybar Modules Extras */
+
+/* This is where you can add Extra Modules you wish. copy.sh will try to restore*/
+/* this file along with the unique configs and styles. */
+/* IMPORTANT, be mindful with , or ". else waybar will not start */
+
+{
+  "modules-left": ["bluetooth"],
+
+  "bluetooth": {
+    "format": "{icon} {status}",
+    "format-connected": "{icon} {device_alias}",
+    "format-connected-battery": "{icon} {device_alias} {device_battery_percentage}%",
+    "format-disconnected": " off",
+    "on-click": "/home/drew/.local/bin/rofi-bluetooth",
+    "on-click-right": "bluetoothctl power off",
+    "tooltip-format": "Device: {device_alias}\nMAC: {device_address}\nBattery: {device_battery_percentage}%",
+    "icons": {
+      "enabled": "",
+      "disabled": "",
+      "disconnected": "",
+      "connected": "",
+      "battery-0": "",
+      "battery-20": "",
+      "battery-40": "",
+      "battery-60": "",
+      "battery-80": "",
+      "battery-100": ""
+    }
+  }
+}

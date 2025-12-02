@@ -1,0 +1,92 @@
+[settings]
+columns = ~title~version,~#track,~#length,genre,artist
+	
+default_rating = 0.5
+scan = /home/drew/Music:/home/drew/Music:/home/drew/GameMusic:/home/drew/FantasyMusic
+
+[memory]
+browser = SearchBar
+chooser_dir = /home/drew/FantasyMusic
+column_expands = ~title~version,1,genre,1,artist,1
+	
+column_widths = ~title~version,-1,genre,-1,artist,-1
+	
+open_browsers = 
+plugin_cover_maximized = 4
+plugin_prefs_maximized = 4
+plugin_prefs_position = 0 0
+plugin_prefs_size_ = 960 1170
+plugin_selection = Download Album Art
+prefs_page = tagging
+queue = False
+queue_disable = False
+queue_expanded = True
+queue_position = 0.7507389162561576
+quodlibet_information_maximized = 4
+quodlibet_last_active_version = 4.6.0
+quodlibet_maximized = 4
+quodlibet_position = 0 0
+quodlibet_properties_maximized = 4
+quodlibet_properties_pos = 0.07062600321027288
+quodlibet_size_ = 1920 1200
+seek = 0
+shuffle = True
+sidebar_pos = 0.25
+song = 
+sortby = 0~#track
+	
+volume = 0.13513183593750003
+
+[player]
+gst_buffer = 3.0
+is_playing = False
+replaygain_mode = auto
+
+[browsers]
+audiofeeds_pos = 0.40010460251046026
+filesystem = /home/drew/Music
+filesystem_pos = 0.40010460251046026
+pane_selection = 0	Adrianwave	.
+	0	<b><i>2016</i></b> - Take Care of Yourself	.
+panedbrowser_pane_widths = 0.502092050209205
+panedbrowser_pos = 0.41470888661899896
+query_text = 
+
+[__config__]
+version = 0
+
+[plugins]
+active_plugins = Theme Switcher
+	Download Album Art
+animosd_monitor = 0
+cover_edit = False
+cover_edit_cmd = gimp
+cover_engine_discogs = True
+cover_filename = cover.jpg
+cover_fit = True
+cover_pos = 0.3829787234042553
+cover_resultsmax = 3
+cover_searchraw = False
+notify_show_notifications = all
+shufflebygrouping_grouping = ~grouping~album~albumartist
+shufflebygrouping_grouping_filter = grouping
+theme switcher_prefer_dark = true
+theme switcher_theme = adw-gtk3-dark
+
+[rename]
+move_art = true
+windows = true
+
+[library]
+watch = false
+
+[editing]
+alltags = false
+show_multi_line_tags = false
+
+[display]
+duration_format = numeric
+
+[albumart]
+force_filename = false
+

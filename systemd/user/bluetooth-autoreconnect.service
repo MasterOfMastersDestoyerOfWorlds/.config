@@ -1,0 +1,10 @@
+[Unit]
+Description=Auto connect to last connected Bluetooth device
+After=bluetooth.service graphical-session.target
+
+[Service]
+Type=oneshot
+ExecStart=/home/drew/.local/bin/autoreconnect-bluetooth
+
+[Install]
+WantedBy=default.target
