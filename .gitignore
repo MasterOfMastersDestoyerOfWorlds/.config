@@ -1,3 +1,15 @@
-Code/Cache/Cache_Data/**
-Code/**
-Cursor/**
+*/User/History/**
+*/User/workspaceStorage/**
+*/Cache/**
+*/logs/**
+*/Cache/**
+*/CachedData/**
+*/DawnWebGPUCache/**
+*/GPUCache/**
+*/DawnGraphiteCache/**
+*/WebStorage/**
+*/Backups/**
+*/Code Cache/**
+*/Local Storage/**
+*/User/globalStorage/state.vscdb
+*/CachedExtensionVSIXs/**

@@ -1,0 +1,88 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.macMachineId": "83ebc01e7cec4f566b4a6f154128e17046b24d240cf2e908346fd6512c9348c7",
+    "telemetry.machineId": "9a916256f2e0d74807d4ba3a70b6e4891d12b536ca2de83c118f5f7e9dfcd46f",
+    "telemetry.devDeviceId": "c30f1db6-d150-4c92-a14c-a751b61661b0",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/drew/bluetooth-waybar"
+            },
+            {
+                "folderUri": "file:///home/drew/.config/waybar"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 30,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/drew/Project-Gordian": "__default__profile__",
+            "file:///home/drew/Ixdar": "__default__profile__",
+            "file:///home/drew/KriegEterna": "__default__profile__",
+            "file:///home/drew/bluetooth-waybar": "__default__profile__",
+            "file:///home/drew/.config/waybar": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "theme": "hc-black",
+    "themeBackground": "#0a0a0a",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "hc-black",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#0a0a0a",
+            "editorBackground": "#0a0a0a",
+            "titleBarBackground": "#0a0a0a",
+            "titleBarBorder": "rgba(255, 255, 255, 0.1)",
+            "activityBarBackground": "#0a0a0a",
+            "activityBarBorder": "#6fc3df",
+            "sideBarBackground": "#0a0a0a",
+            "sideBarBorder": "rgba(255, 255, 255, 0.1)",
+            "statusBarBackground": "#0a0a0a",
+            "statusBarBorder": "rgba(42, 42, 42, 0)",
+            "statusBarNoFolderBackground": "#0a0a0a",
+            "windowBorder": "#6fc3df"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 30,
+            "activityBarWidth": 0,
+            "sideBarWidth": 238,
+            "auxiliarySideBarWidth": 330,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/drew/.config/waybar",
+            "backupPath": "/home/drew/.config/Cursor/Backups/4cad2d381407fbbd5418afc769fd1916",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 1920,
+                "height": 1200
+            }
+        },
+        "openedWindows": []
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "auxiliarySideBarWidth": [
+                330,
+                [
+                    "1743ad7c2d60501a8ff08af6253cb406",
+                    "bf4e559a20578d2dbb8f6668a17cc982",
+                    "5e3ff1e170d68311003a61c30365bc5a",
+                    "66bb4e5081d3fa952299ba42c20c7fbc",
+                    "d9eda0ae495e51a612c0c043d2cdf6dd"
+                ]
+            ]
+        }
+    }
+}

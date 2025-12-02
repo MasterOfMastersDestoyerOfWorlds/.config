@@ -1,0 +1,23 @@
+{
+    "redhat.telemetry.enabled": false,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveWhenNoErrors": true,
+    "git.confirmSync": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "extensions.ignoreRecommendations": true,
+    "git.enableSmartCommit": true,
+    "workbench.colorTheme": "Tokyo Night Storm",
+    "debug.onTaskErrors": "abort",
+    "maven.executable.path": "/usr/local/maven/bin/mvn",
+    "editor.inlineSuggest.enabled": false,
+    "java.configuration.runtimes": [
+        
+    ],
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "workbench.secondarySideBar.defaultVisibility": "hidden"
+}

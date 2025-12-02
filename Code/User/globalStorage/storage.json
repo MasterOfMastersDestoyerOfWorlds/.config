@@ -1,0 +1,112 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "83ebc01e7cec4f566b4a6f154128e17046b24d240cf2e908346fd6512c9348c7",
+    "telemetry.devDeviceId": "c30f1db6-d150-4c92-a14c-a751b61661b0",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/drew/bluetooth-waybar"
+            },
+            {
+                "folderUri": "file:///home/drew/.config/hypr"
+            },
+            {
+                "folderUri": "file:///home/drew/.config"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/drew/Project-Gordian": "__default__profile__",
+            "file:///home/drew/Pictures/porn/Scripts": "__default__profile__",
+            "file:///home/drew/DarkSouls/Dark-Souls-III-Archipelago-client": "__default__profile__",
+            "file:///home/drew/KriegEterna": "__default__profile__",
+            "file:///home/drew/Ixdar": "__default__profile__",
+            "file:///home/drew/.config/hypr": "__default__profile__",
+            "file:///home/drew/.config/waybar": "__default__profile__",
+            "file:///home/drew/bluetooth-waybar": "__default__profile__",
+            "file:///home/drew/.config": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#24283b",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#8089b3",
+            "background": "#24283b",
+            "editorBackground": "#24283b",
+            "titleBarBackground": "#1f2335",
+            "titleBarBorder": "#1b1e2e",
+            "activityBarBackground": "#1f2335",
+            "activityBarBorder": "#1f2335",
+            "sideBarBackground": "#1f2335",
+            "sideBarBorder": "#1b1e2e",
+            "statusBarBackground": "#1f2335",
+            "statusBarBorder": "#1b1e2e",
+            "statusBarNoFolderBackground": "#1f2335",
+            "windowBorder": "#0d0f17"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 419,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/drew/.config",
+            "backupPath": "/home/drew/.config/Code/Backups/796c77795a67e06b89f66b765ab552b4",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 1920,
+                "height": 1200
+            }
+        },
+        "openedWindows": []
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 419,
+            "auxiliaryBarWidth": 436,
+            "workspaces": {
+                "bf4e559a20578d2dbb8f6668a17cc982": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "5e3ff1e170d68311003a61c30365bc5a": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "a6eb72c8c3e45fde0b5587968f1030c7": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "d9eda0ae495e51a612c0c043d2cdf6dd": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "66bb4e5081d3fa952299ba42c20c7fbc": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "7a5d3a3c94610be707b57dac0e707648": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}
